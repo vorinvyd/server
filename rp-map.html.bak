@@ -56,37 +56,14 @@
 	</div>
   </header>
 
-  <section class="dark" id="features">
-	<div>
-	  <p align="center" class="enlarge">
-	    <img src="img/rp-logo.png" width="400px">
-        <strong></strong>
-		<strong></strong>
-        Основной сервер проекта. На РП тематику.
-		<strong></strong>
-		<b>Версии</b>: 1.16.5 - 1.18.2
-		<strong></strong>
-		<b>Статус</b>: III СЕЗОН
-		<strong></strong>
-	  </p>
-	  <p align="center" class="enlarge">
-	    <strong>Принцип работы</strong>
-	    Сервера доступен для: Лицензионных и Пиратских аккаунтов. Для прохода на сервер необхидомо написать заявку в ДС.
-	  </p>
-	  <p align="center" class="enlarge">
-	  <a href="https://minecraft-statistic.net/ru/server/142.132.154.110_28373.html"><img src="https://minecraft-statistic.net/userbars/320x64/server/minecraft_219617.png" ></a>
-	  <a href="https://monitoringminecraft.ru/server/873499" target="_blank"><img src="https://monitoringminecraft.ru/images/wdg.png" alt="Сервер проверен MonitoringMinecraft.ru" title="Сервер проверен MonitoringMinecraft.ru" width="88" height="31" /></a>
-	  <a href="https://minecraftrating.ru/server/148103/" target="_blank"><img src="https://minecraftrating.ru/templates/theme/images/widgets/widget2.png" alt="ИМПЕРИЯ ВОРИНВУД ..-.. на MinecraftRating.ru" title="ИМПЕРИЯ ВОРИНВУД ..-.. на MinecraftRating.ru" width="88" height="31" /></a>
-	  </p>
-	  <p align="center">
-	  <a href="rp-map.html" class="btn2">Карта</a>
-	  <a href="https://vorinvyd.ga/voicechat.html" class="btn2">Войс-чат</a>
-	  </p>
+  <section class="dark">
+  <h1><img src="img/emoji/world-map.png" width="3%"> КАРТА РП</h1>
+  <iframe src="http://142.132.154.110:26258/" width="1200" height="800" style="border:none;"></iframe>
+	</div>
+	   <div class="feature center">
+	    <a href="index.html" class="btn2">◀ Назад</a>
+		<a href="rp.html" class="btn2">◀ Назад РП</a>
 	  </div>
-	    <div class="feature center">
-		<a href="https://vorinvyd.ga" class="btn2">◀ Назад</a>
-	  </div>
-	 </div>
   </section>
 
   <section class="light">
