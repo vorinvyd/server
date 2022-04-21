@@ -42,12 +42,19 @@ h1 {
 	width: 100%;
     text-align: center;
 }
+h2 {
+	font-family: Poppins, sans-serif;
+	font-size: 3.0em;
+}
 h3 {
-	font-family: 'Raleway', sans-serif;
+	font-family: Poppins, sans-serif;
 	font-size: 1.5em;
 }
 @media (max-width: 1200px) {
   h1 {
+    font-size: 2.5em;
+  }
+  h2 {
     font-size: 2.5em;
   }
   h3 {
@@ -132,6 +139,11 @@ hr {
 	width: 18em;
 	border-radius: 1em;
 }
+.staff-card h2 {
+	line-height: 0;
+	font-family: Poppins,sans-serif;
+	color: #525252;
+}
 .staff-card h3 {
 	line-height: 0;
 	font-family: Poppins,sans-serif;
@@ -152,6 +164,11 @@ hr {
     text-align: center;
 	width: 18em;
 	border-radius: 1em;
+}
+.staff-card2 h2 {
+	line-height: 0;
+	font-family: Poppins,sans-serif;
+	color: #fff;
 }
 .staff-card2 h3 {
 	line-height: 0;
@@ -288,6 +305,20 @@ hr {
 .btn2:hover {
 	background: var(--button2-hover-color);
 	color: var(--button2-hover-text-color);
+}
+
+.btn3 {
+    padding: 10px 25px;
+    background: var(--button3-color);
+    color: var(--button3-text-color);
+    display: inline-block;
+    border-radius: 1em;
+    transition: .3s;
+	text-decoration: none;
+}
+.btn3:hover {
+	background: var(--button3-hover-color);
+	color: var(--button3-hover-text-color);
 }
 
 footer {
