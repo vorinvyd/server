@@ -7,18 +7,26 @@
   --dark-color: #24272b; /* Colour of dark section */
   --dark-text-color: #fff; /* Colour of text in dark section */
   
+  --donate-color: #ff9800; /* Colour of dark section */
+  --donate-text-color: #fff; /* Colour of text in dark section */
+  
   --light-color: #fff; /* Colour of light section */
   --light-text-color: #24272b; /* Colour of text in light section */
   
-  --button-color: #24272b; /* Colour of buttons */
-  --button-text-color: #fff; /* Colour of the text in buttons */
-  --button-hover-color: #2b6ed9; /* Colour of button when hovered over */
-  --button-hover-text-color: #fff; /* Colour of text in button when hovered over */
+  --button-color: #24272b;  
+  --button-text-color: #fff;  
+  --button-hover-color: #2b6ed9;  
+  --button-hover-text-color: #fff; 
   
-  --button2-color: #fff; /* Colour of buttons */
-  --button2-text-color: #24272b; /* Colour of the text in buttons */
-  --button2-hover-color: #fff; /* Colour of button when hovered over */
-  --button2-hover-text-color: #2b6ed9; /* Colour of text in button when hovered over */
+  --button2-color: #fff;  
+  --button2-text-color: #24272b;  
+  --button2-hover-color: #fff;  
+  --button2-hover-text-color: #2b6ed9;  
+  
+  --button3-color: #34393e;  
+  --button3-text-color: #fff;  
+  --button3-hover-color: #2b6ed9;  
+  --button3-hover-text-color: #fff;
   
   --info-color: #4bb4f1; /* Colour of important text (Player count, IP) */
   
